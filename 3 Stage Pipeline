@@ -32,7 +32,7 @@ def OR(a, b):
  
 
 
-print("*****************************")
+print("******************************")
 print(" | OR Truth Table | Result |")
 print(" A = False, B = False | A OR B =",OR(False,False)," | ")
 print(" A = False, B = True | A OR B =",OR(False,True)," | ")
